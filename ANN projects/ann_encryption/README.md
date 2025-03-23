@@ -179,5 +179,5 @@ Decrypted:  "hi"
 | Custom, AI-powered, flexible encryption   | Neural Cipher ✅ |
 
 ## 👨‍🔬 Author
-> Concept by Okereke Chukwudi Donald  
+> Okereke Chukwudi Donald  
 > AI-Driven Encryption Prototype | Built with PyTorch  
